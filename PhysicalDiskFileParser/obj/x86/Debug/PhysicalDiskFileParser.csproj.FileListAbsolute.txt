@@ -1,0 +1,7 @@
+C:\workspace\Coodle\PhysicalDiskFileParser\bin\Debug\PhysicalDiskFileParser.exe
+C:\workspace\Coodle\PhysicalDiskFileParser\bin\Debug\PhysicalDiskFileParser.pdb
+C:\workspace\Coodle\PhysicalDiskFileParser\bin\Debug\Core.dll
+C:\workspace\Coodle\PhysicalDiskFileParser\bin\Debug\Core.pdb
+C:\workspace\Coodle\PhysicalDiskFileParser\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\workspace\Coodle\PhysicalDiskFileParser\obj\x86\Debug\PhysicalDiskFileParser.exe
+C:\workspace\Coodle\PhysicalDiskFileParser\obj\x86\Debug\PhysicalDiskFileParser.pdb
