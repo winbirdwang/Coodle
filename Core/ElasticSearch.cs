@@ -15,4 +15,8 @@ namespace Core
             return null;
         }
     }
+    public class testwwb
+    {
+      public int i {get;set;}
+    }
 }
